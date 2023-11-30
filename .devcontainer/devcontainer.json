@@ -7,7 +7,6 @@
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
-	"features": {GitHub.Copilot},
 
 	// Configure tool-specific properties.
 	"customizations": {
@@ -17,7 +16,8 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
-				"ms-python.vscode-pylance"
+				"ms-python.vscode-pylance",
+				"GitHub.Copilot"
 			]
 		}
 	},
